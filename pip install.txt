@@ -1,0 +1,22 @@
+pip install Flask
+pip install pyserial
+pip install gtts
+pip install face_recognition
+pip install lxml
+pip install numpy
+pip install pygame
+pip install ultralytics
+pip install ultralytics
+pip install cvzone
+pip install opencv-python-headless
+pip install pyfirmata
+pip install pyfirmata opencv-python-headless cvzone ultralytics pygame numpy lxml face_recognition gtts pygame pyserial flask
+
+
+
+playsoundip install --upgrade speechrecognition
+pip install --upgrade gtts
+pip install --upgrade requests
+pip install --upgrade playsound
+
+pip install pyaudio
